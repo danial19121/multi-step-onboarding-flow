@@ -16,7 +16,7 @@ A frontend implementation of the **Multi-Step Form / Onboarding Flow** intern pr
 | Confirmation state | Dedicated success screen after mock submission |
 | Responsive UI | Mobile breakpoint at 700px |
 
-These features map directly to the supplied project brief, which requires the flow to be working, organized and reproducible. fileciteturn0file0L5-L10
+These features map directly to the supplied project brief, which requires the flow to be working, organized and reproducible. 
 
 ## Step map
 
@@ -26,7 +26,7 @@ These features map directly to the supplied project brief, which requires the fl
 4. **Preferences** — product-update preference.
 5. **Review** — summary of all answers and final confirmation checkbox.
 
-The brief specifically asks for at least four meaningful steps plus a final review, progress tracking, validation, backward navigation and conditional logic. fileciteturn0file0L12-L21
+The brief specifically asks for at least four meaningful steps plus a final review, progress tracking, validation, backward navigation and conditional logic. 
 
 ## Validation rules
 
@@ -96,7 +96,7 @@ multi-step-onboarding-flow/
     └── styles.css
 ```
 
-The supplied brief asks for clear file names, documented dependencies, a reproducible README and removal of abandoned/duplicate clutter. fileciteturn0file0L35-L45
+The supplied brief asks for clear file names, documented dependencies, a reproducible README and removal of abandoned/duplicate clutter.
 
 ## Requirements
 
@@ -151,7 +151,7 @@ After a fresh install, verify the following manually:
 
 ## Screenshots / sample outputs
 
-The final repository can include screenshots captured from the running app during review. Do not claim screenshot results unless they have actually been captured from the submitted build. The project brief explicitly asks the README to include screenshots or sample outputs where useful and warns against reporting results that were not produced. fileciteturn0file0L27-L34
+The final repository can include screenshots captured from the running app during review. Do not claim screenshot results unless they have actually been captured from the submitted build. The project brief explicitly asks the README to include screenshots or sample outputs where useful and warns against reporting results that were not produced.
 
 ## Known limitations
 
@@ -162,6 +162,6 @@ The final repository can include screenshots captured from the running app durin
 
 ## Submission package
 
-The project brief asks for a GitHub repository, a ZIP uploaded to Google Drive, a demonstration video uploaded to Google Drive, and the README inside both the repository and ZIP. fileciteturn0file0L48-L63
+The project brief asks for a GitHub repository, a ZIP uploaded to Google Drive, a demonstration video uploaded to Google Drive, and the README inside both the repository and ZIP. 
 
 For final submission, add the repository and Drive links supplied by your team/boss in the requested submission format.
